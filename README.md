@@ -17,7 +17,7 @@ A collection of end-to-end data science projects covering the full workflow: fro
 
 ## Project Structure
 
-### 1. IT Salary Prediction — `ds_salaries_analysis.py`
+### 1. IT Salary Prediction — `main_example.py`
 > EDA of the IT labor market and specialist income prediction.
 
 - **Work done:** Dataset cleaning, data aggregation via `pivot_table`, and income distribution visualization
